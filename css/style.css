@@ -66,8 +66,40 @@ li {
     line-height: 50px;
 }
 
-.cerchio {}
+
 
 .cerchio_rosso {
     background-color: red;
+}
+
+.label_light_blue {
+    font-size: 15px;
+    color: #fff;
+    padding: 5px 15px;
+    border-radius: 10px;
+    background-color: lightblue;
+}
+
+.label_purple {
+    font-size: 15px;
+    color: #fff;
+    padding: 5px 15px;
+    border-radius: 10px;
+    background-color: purple;
+}
+
+.label_green {
+    font-size: 15px;
+    color: #fff;
+    padding: 5px 15px;
+    border-radius: 10px;
+    background-color: green;
+}
+
+.label_orange {
+    font-size: 15px;
+    color: #fff;
+    padding: 5px 15px;
+    border-radius: 10px;
+    background-color: orange;
 }
