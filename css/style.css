@@ -21,6 +21,10 @@ header {
     background-color: white;
 }
 
+h2 {
+    vertical-align: 12px;
+}
+
 body {
     background-color: lightgray;
 }
@@ -58,18 +62,20 @@ body {
     margin: 25px 40px;
 }
 
+strong {
+    font-size: 25px;
+}
+
+.arrow {
+    margin-right: 10px;
+}
+
 ul {
     list-style-type: none;
 }
 
 li {
     line-height: 50px;
-}
-
-
-
-.cerchio_rosso {
-    background-color: red;
 }
 
 .label_light_blue {
@@ -102,4 +108,8 @@ li {
     padding: 5px 15px;
     border-radius: 10px;
     background-color: orange;
+}
+
+span {
+    margin-right: 15px;
 }
