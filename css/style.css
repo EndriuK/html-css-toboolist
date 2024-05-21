@@ -3,3 +3,19 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+body {
+    background-color: lightgray;
+}
+
+.background-white {
+    background-color: white;
+}
+
+#logo {
+    ;
+}
+
+#title {
+    display: inline;
+}
