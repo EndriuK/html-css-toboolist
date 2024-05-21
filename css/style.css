@@ -31,7 +31,8 @@ body {
 
 .container {
     background-color: white;
-    margin: 20px;
+    margin: 0 auto;
+    width: 1200px;
 }
 
 .pulsanti {
@@ -55,4 +56,18 @@ body {
 .lista {
     font-family: Arial, Helvetica, sans-serif;
     margin: 25px 40px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    line-height: 50px;
+}
+
+.cerchio {}
+
+.cerchio_rosso {
+    background-color: red;
 }
